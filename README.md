@@ -15,6 +15,11 @@ install [Python](https://www.python.org/downloads/)
 * media.py - contains the class Movie that stores movie details
 * fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
 
+## How to Run Project
+
+Download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.
+Your default browser should launch a new tab displaying the movie trailer website.
+
 ## Miscellaneous
 
 This README document is based on a template suggested by PhilipCoach in this Udacity forum [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524).
